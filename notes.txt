@@ -1,0 +1,21 @@
+Schemas
+
+  security
+    account
+    user
+    role
+
+  aws
+    bucket
+    iam_user
+    access keys
+    policy
+    distribution
+
+  data
+    tag
+
+  storage
+    signature
+    file
+    
